@@ -1,6 +1,6 @@
 ## wpdatarequest ##
 
-A Wordpress plugin to ScraperWiki uses to add a request ID to "Call me back" data requests on their Professional Services page.
+A Wordpress plugin that ScraperWiki uses to add a request ID to "Call me back" data requests on their Professional Services page.
 
 ### Requirements ###
 
